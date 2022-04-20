@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ixtiyor02
-- 👀 I’m interested in ball games especially football
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on start-ups
+- 👀 I’m interested in doing some great start-ups
+- 🌱 I’m currently learning React.Js
+- 💞️ I’m looking to work with experienced developers
 - 📫 How to reach me: 
 - Email: ixtiyorjonkhikmatov@gmail.com
 - telegram: khikmatov02
