@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ixtiyor02
 - 👀 I’m interested in doing some great start-ups
-- 🌱 I’m currently learning React.Js
+- 🌱 I’m currently learning Next.Js
 - 💞️ I’m looking to work with experienced developers
 - 📫 How to reach me: 
 - Email: ixtiyorjonkhikmatov@gmail.com
