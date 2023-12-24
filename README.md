@@ -24,6 +24,6 @@ Apart from my love affair with the keyboard, I enjoy reading books on personal d
 
 #### 🌈 Let's Connect!
 
-Eager to connect with fellow coders, tech enthusiasts, and anyone passionate about the endless possibilities of the digital realm. Let's write some code that not only runs but also inspires.
+Eager to connect with fellow coders, tech enthusiasts, and anyone passionate about the endless possibilities of the digital realm. Let's write some code that not only runs but also inspires. Find me everywhere: @khikmmatov 🌐
 
 **Happy coding!** 🚀
